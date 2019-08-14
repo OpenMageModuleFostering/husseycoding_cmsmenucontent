@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "Adds tab style content switching to Magento CMS pages.",
+    "description": "Adds expanding blocks of content to CMS pages.",
     "authors": [
     {
         "name": "Hussey Coding",
