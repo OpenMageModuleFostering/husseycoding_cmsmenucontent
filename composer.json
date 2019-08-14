@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/HusseyCoding_CmsMenuContent",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Adds tab style content switching to Magento CMS pages.",
+    "authors": [
+    {
+        "name": "Hussey Coding",
+        "email": "info@husseycoding.co.uk"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
