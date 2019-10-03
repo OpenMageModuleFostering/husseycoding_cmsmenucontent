@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/HusseyCoding_CmsMenuContent",
+    "name": "OpenMageModuleFostering\/HusseyCoding_CmsMenuContent",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Adds expanding blocks of content to CMS pages.",
     "authors": [
-    {
-        "name": "Hussey Coding",
-        "email": "info@husseycoding.co.uk"
-    }
-],
+        {
+            "name": "Hussey Coding",
+            "email": "info@husseycoding.co.uk"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
